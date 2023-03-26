@@ -57,7 +57,7 @@ const Detail = () => {
           onClick={addCard}
           className="p-3 w-full bg-indigo-600 text-center rounded-lg text-white text-lg"
         >
-          Add to Cart
+          ADD TO BASKET
         </button>
       </div>
     </div>
